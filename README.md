@@ -7,7 +7,7 @@ This repository contains the computational implementations for my Mathematics II
 ## Part 1: Systems of Linear Differential Equations (Pharmacokinetics)
 This project models drug absorption in a two-compartment system (stomach and bloodstream). It uses a system of first-order linear differential equations to track how a medication is absorbed and then eliminated from the body, helping to predict the time of peak concentration to avoid toxicity.
 
-![Pharmacokinetics Graph](pharmacokinetics_graph.png)
+![Pharmacokinetics Graph](pharmacokinetics_graph.jpg)
 *Figure 1: The graph perfectly visualizes the formulas. The blue line (stomach) starts at 100 mg and smoothly decays toward zero. The red line (bloodstream) starts at 0, rises as the drug is absorbed, peaks, and then slowly decays as the body eliminates the medicine.*
 
 ---
@@ -15,7 +15,7 @@ This project models drug absorption in a two-compartment system (stomach and blo
 ## Part 2: Laplace Transforms (Car Suspension)
 This project models the vertical displacement of a vehicle chassis subjected to an instantaneous impulse force (a speed bump). By utilizing Laplace Transforms, the differential equation governing the mass-spring-damper system is solved to derive the displacement equation that demonstrated underdamped harmonic oscillation.
 
-![Car Suspension Graph](suspension_graph.png)
+![Car Suspension Graph](suspension_graph.jpg)
 *Figure 2: The resulting graph illustrates an underdamped harmonic oscillation which showing a sharp spike from the speed bump, followed by a few smooth, shrinking bounces as the car returns to a flat equilibrium.*
 
 ---
